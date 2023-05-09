@@ -1,8 +1,8 @@
 {
   "name": "faery-cleaning-services",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://mathalous.github.io/Faery-Cleaning-Services",
+  "private": false,
+  "homepage": "https://Mathalous.github.io/Faery-Cleaning-Services",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
