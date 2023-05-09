@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faery-Cleaning-Services/static/css/main.ec360ace.css",
+    "main.js": "/Faery-Cleaning-Services/static/js/main.d3cb1fde.js",
+    "static/js/787.db5aaf53.chunk.js": "/Faery-Cleaning-Services/static/js/787.db5aaf53.chunk.js",
+    "index.html": "/Faery-Cleaning-Services/index.html",
+    "main.ec360ace.css.map": "/Faery-Cleaning-Services/static/css/main.ec360ace.css.map",
+    "main.d3cb1fde.js.map": "/Faery-Cleaning-Services/static/js/main.d3cb1fde.js.map",
+    "787.db5aaf53.chunk.js.map": "/Faery-Cleaning-Services/static/js/787.db5aaf53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec360ace.css",
+    "static/js/main.d3cb1fde.js"
+  ]
+}
