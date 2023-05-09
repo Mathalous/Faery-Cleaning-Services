@@ -2,6 +2,7 @@
   "name": "faery-cleaning-services",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mathalous.github.io/Faery-Cleaning-Services",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -18,11 +19,13 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
