@@ -1,7 +1,6 @@
-import { Box, Stack, Typography } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
 import EmailIcon from '@mui/icons-material/Email';
-import { VerticalAlignCenter } from "@mui/icons-material";
 
 const phoneNumber = "xxx-xxx-xxxx"
 const emailAddress = "faerycleaningservices@gmail.com"

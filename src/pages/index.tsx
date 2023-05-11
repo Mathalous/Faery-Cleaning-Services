@@ -1,9 +1,7 @@
-import { Box } from "@mui/material";
 import { ReactNode } from "react";
 import { Home } from "./home";
 import { Pricing } from "./pricing";
 import { Contact } from "./contact";
-
 
 export enum Pages{
   home = "Home",
